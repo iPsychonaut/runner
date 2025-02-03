@@ -1,3 +1,5 @@
+NOTE: This is an unmaintained fork of runner needed for purge_dups (https://github.com/dfguan/purge_dups)
+
 # runner
 A simple python wrapper for HPC job submission, now supports LSF and Slurm. 
 
